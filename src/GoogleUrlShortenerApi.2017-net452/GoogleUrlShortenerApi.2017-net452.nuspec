@@ -6,7 +6,7 @@
     <title>Google URL Shortener API</title>
     <authors>Kevin Farrelly</authors>
     <owners>Kevin Farrelly</owners>
-    <licenseUrl>https://github.com/cerber4s/google-url-shortener-api</licenseUrl>
+    <licenseUrl>https://github.com/cerber4s/google-url-shortener-api/blob/master/LICENCE</licenseUrl>
     <projectUrl>https://github.com/cerber4s/google-url-shortener-api</projectUrl>
     <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
