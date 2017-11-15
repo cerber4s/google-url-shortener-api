@@ -4,7 +4,7 @@ using System.Net.Http.Formatting;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 
-namespace GoogleUrlShortenerApi
+namespace KF.GoogleUrlShortenerApi
 {
     public class UrlShortener
     {

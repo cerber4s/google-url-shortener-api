@@ -7,8 +7,8 @@
     <ProjectGuid>{317A93A4-025A-41A7-9B47-30DE14E08C80}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GoogleUrlShortenerApi</RootNamespace>
-    <AssemblyName>GoogleUrlShortenerApi</AssemblyName>
+    <RootNamespace>KF.GoogleUrlShortenerApi</RootNamespace>
+    <AssemblyName>KF.GoogleUrlShortenerApi</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
