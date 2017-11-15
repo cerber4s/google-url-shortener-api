@@ -1,0 +1,18 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+root = true
+
+[*]
+insert_final_newline = true
+
+[**.*]
+indent_style = space
+indent_size = 4
+
+[*.config]
+indent_style = space
+indent_size = 2
+
+[*.csproj]
+indent_style = space
+indent_size = 2

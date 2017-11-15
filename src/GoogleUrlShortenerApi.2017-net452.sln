@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleUrlShortenerApi.2017-net452", "GoogleUrlShortenerApi.2017-net452\GoogleUrlShortenerApi.2017-net452.csproj", "{317A93A4-025A-41A7-9B47-30DE14E08C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleUrlShortenerApi.Tests", "GoogleUrlShortenerApi.Tests\GoogleUrlShortenerApi.Tests.csproj", "{78F13734-04DD-4491-B791-DDAA3F5C48E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{317A93A4-025A-41A7-9B47-30DE14E08C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317A93A4-025A-41A7-9B47-30DE14E08C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317A93A4-025A-41A7-9B47-30DE14E08C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317A93A4-025A-41A7-9B47-30DE14E08C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F13734-04DD-4491-B791-DDAA3F5C48E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F13734-04DD-4491-B791-DDAA3F5C48E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F13734-04DD-4491-B791-DDAA3F5C48E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F13734-04DD-4491-B791-DDAA3F5C48E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A61EE9-4A6E-43C1-8311-764873DE0656}
+	EndGlobalSection
+EndGlobal

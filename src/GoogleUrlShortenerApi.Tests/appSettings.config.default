@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<appSettings>
+  <add key="apiKey" value="ENTER_API_KEY"/>
+</appSettings>
